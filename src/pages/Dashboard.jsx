@@ -52,7 +52,7 @@ export default function Dashboard({ th, L, user, farm, WT: staticWT, crops, offl
     <div>
       <div style={{ marginBottom:16 }}>
         <h2 style={{ fontSize:"clamp(20px,5vw,24px)", fontWeight:800, margin:"0 0 4px", color:th.tx }}>
-          {L.morning}, {user.name.split(" ")[0]} 👋
+          {L.morning} {user.name.split(" ")[0]}!
         </h2>
         <p style={{ fontSize:14, color:th.sub, margin:0 }}>{farm.name} · {farm.loc} · {farm.acres} {L.acres}</p>
       </div>
