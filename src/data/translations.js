@@ -40,7 +40,7 @@ export const TR = {
     phTrend:"pH Trends", irrigCalc:"Irrigation Calc", cropCalendar:"Crop Calendar", 
     farmAnalytics:"Farm Analytics", rotationPlanner:"Rotation Planner", fertilCalc:"Fertilizer Calc",
     // Banner items
-    b1:"🌾 PM-KISAN: ₹6,000/year direct to farmers — Apply now",
+    b1:"🌾 PM-KISAN: ₹6,000/year for eligible farmers (in 3 installments) — Apply if eligible",
     b2:"📱 AI crop diagnosis now available — Upload photo for instant results",
     b3:"💰 Kisan Credit Card at 4% interest — Limited time offer",
     b4:"🌧️ Monsoon advisory: Check your district forecast daily",
