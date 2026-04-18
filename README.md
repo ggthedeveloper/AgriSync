@@ -17,32 +17,29 @@ Frontend: React.js
 Build Tool: Vite
 Languages: JavaScript, HTML, CSS
 📂 Project Structure
-
 AgriSync/
 ├── src/
-│ ├── components/
-│ │ ├── AIChatbot.jsx
-│ │ ├── VoiceAssistant.jsx
-│ │ ├── Sidebar.jsx
-│ │ ├── PayModal.jsx
-│ │ └── ...
-│ ├── data/
-│ ├── App.jsx
-│ └── main.jsx
+│   ├── components/
+│   │   ├── AIChatbot.jsx
+│   │   ├── VoiceAssistant.jsx
+│   │   ├── Sidebar.jsx
+│   │   ├── PayModal.jsx
+│   │   └── ...
+│   ├── data/
+│   ├── App.jsx
+│   └── main.jsx
 ├── index.html
 ├── package.json
 └── vite.config.js
-
 ⚙️ Installation & Setup
-Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/agrisync.git
-
 cd agrisync
-Install dependencies
+2. Install dependencies
 npm install
-Run the development server
+3. Run development server
 npm run dev
-Build for production
+4. Build for production
 npm run build
 🌍 Deployment
 
@@ -56,3 +53,8 @@ Deploy easily using platforms like Vercel or Netlify.
 📌 License
 
 This project is for educational and development purposes.
+
+✅ Why your previous version broke:
+No code blocks (```) → structure became messy
+No proper line breaks → everything merged
+No headings spacing → GitHub didn’t render sections
