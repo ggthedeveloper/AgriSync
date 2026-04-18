@@ -42,7 +42,6 @@ AgriSync/
 ├── index.html
 ├── package.json
 └── vite.config.js
----  
 
 ## ⚙️ Installation & Setup
 - 1. Clone the repository
