@@ -3,19 +3,19 @@
 AgriSync | React, Vite, JavaScript
 
 A modern agriculture-focused web application designed to assist farmers with smart tools like AI chatbot support, voice assistance, and digital services — all in a clean, responsive interface.
---
+-
 
 ## Live at: https://gg-agri-sync.vercel.app/
----
+-
 
 ## 🚀 Features
-🤖 AI Chatbot – Provides instant help and farming guidance
-🎤 Voice Assistant – Hands-free interaction
-📞 Call Support – Quick access to assistance
-💳 Payment Integration UI – Upgrade and service access
-📊 Smart UI Components – Sidebar, banners, modals
-⚡ Fast Performance – Powered by Vite
-📱 Responsive Design – Works across devices
+- 🤖 AI Chatbot – Provides instant help and farming guidance
+- 🎤 Voice Assistant – Hands-free interaction
+- 📞 Call Support – Quick access to assistance
+- 💳 Payment Integration UI – Upgrade and service access
+- 📊 Smart UI Components – Sidebar, banners, modals
+- ⚡ Fast Performance – Powered by Vite
+- 📱 Responsive Design – Works across devices
 ---
 
 ## 🛠️ Tech Stack
