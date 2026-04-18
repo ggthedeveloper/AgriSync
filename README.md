@@ -41,21 +41,7 @@ AgriSync/
 ├── package.json
 └── vite.config.js
 
-## ⚙️ Installation & Setup
-- 1. Clone the repository
-git clone https://github.com/your-username/agrisync.git
-cd agrisync
-- 2. Install dependencies
-npm install
-- 3. Run development server
-npm run dev
-- 4. Build for production
-npm run build
-🌍 Deployment
----
-
 ### Deploy easily using platforms like Vercel or Netlify.
-
 - 💡 Future Improvements
 - 🌾 Real-time crop/weather data integration
 - 📈 Farmer analytics dashboard
